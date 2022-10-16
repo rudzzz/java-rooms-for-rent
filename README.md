@@ -9,11 +9,11 @@
 
 ## How it works
 
-<p align="justify"
-![unknown](https://user-images.githubusercontent.com/97038663/196043227-ace1e6af-7a23-4c61-9a16-2190ec0edc85.png)
-
+<p align="justify">
+     
+   ![image](https://user-images.githubusercontent.com/97038663/196043848-cd8dc5a2-3e3e-4019-bf31-7efb9127d62b.png)
+   
 </p>
-
 
 ## Languages used :books:
 
