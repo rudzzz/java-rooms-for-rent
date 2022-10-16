@@ -10,7 +10,7 @@
 ## How it works
 
 <p align="justify"
-![unknown](https://user-images.githubusercontent.com/97038663/196043137-070b2ec0-85ca-47c7-a4ad-7b5b6db1a1f5.png)
+![unknown](https://user-images.githubusercontent.com/97038663/196043227-ace1e6af-7a23-4c61-9a16-2190ec0edc85.png)
 
 </p>
 
